@@ -1,0 +1,36 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 342 301" width="342" height="301">
+	<title>Data Secure-svg</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="258" y1="71" x2="258" y2="99">
+			<stop offset="0" stop-color="#f66884"  />
+			<stop offset="0.496" stop-color="#f67f70"  />
+			<stop offset="1" stop-color="#c76fc1"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+		.shp1 { fill: #3a4ee8 } 
+		.shp2 { fill: #b65cd2 } 
+		.shp3 { fill: url(#grd1) } 
+	</style>
+	<g id="Data_Secure">
+		<g id="Layer">
+			<path id="Rectangle_16790-2" class="shp0" d="M35 91C35 84.37 40.37 79 47 79L246 79C252.63 79 258 84.37 258 91L258 241C258 247.63 252.63 253 246 253L47 253C40.37 253 35 247.63 35 241L35 91Z" />
+		</g>
+		<g id="Group_39333">
+			<path id="Rectangle_16785" class="shp1" d="M61 142C61 140.9 61.9 140 63 140L85 140C86.1 140 87 140.9 87 142L87 223C87 224.1 86.1 225 85 225L63 225C61.9 225 61 224.1 61 223L61 142Z" />
+			<path id="Rectangle_16786" class="shp1" d="M99 204C99 202.9 99.9 202 101 202L123 202C124.1 202 125 202.9 125 204L125 223C125 224.1 124.1 225 123 225L101 225C99.9 225 99 224.1 99 223L99 204Z" />
+			<path id="Rectangle_16787" class="shp1" d="M137 125C137 123.9 137.9 123 139 123L161 123C162.1 123 163 123.9 163 125L163 223C163 224.1 162.1 225 161 225L139 225C137.9 225 137 224.1 137 223L137 125Z" />
+			<path id="Rectangle_16788" class="shp1" d="M175 176C175 174.9 175.9 174 177 174L199 174C200.1 174 201 174.9 201 176L201 223C201 224.1 200.1 225 199 225L177 225C175.9 225 175 224.1 175 223L175 176Z" />
+			<path id="Rectangle_16789" class="shp1" d="M213 168C213 166.9 213.9 166 215 166L237 166C238.1 166 239 166.9 239 168L239 223C239 224.1 238.1 225 237 225L215 225C213.9 225 213 224.1 213 223L213 168Z" />
+		</g>
+		<g id="Group_39357">
+			<g id="Layer">
+				<path id="Rectangle_16791-2" class="shp0" d="M212 56C212 49.37 217.37 44 224 44L292 44C298.63 44 304 49.37 304 56L304 114C304 120.63 298.63 126 292 126L224 126C217.37 126 212 120.63 212 114L212 56Z" />
+			</g>
+			<path id="Ellipse_4640" class="shp2" d="M258 111C243.62 111 232 99.38 232 85C232 70.62 243.62 59 258 59C272.38 59 284 70.62 284 85C284 99.38 272.38 111 258 111Z" />
+			<path id="Ellipse_4641" class="shp3" d="M258 99C250.26 99 244 92.74 244 85C244 77.26 250.26 71 258 71C265.74 71 272 77.26 272 85C272 92.74 265.74 99 258 99Z" />
+		</g>
+	</g>
+</svg>
